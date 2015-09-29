@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.michaelannor.phonegapwater" versionCode = "11"
+version = "1.3.1" >
+<!-- versionCode is opIonal and Android only --> <name>Water Checker</name>
+<descripIon>
+Demo for MWC fall 2015
+</descripIon>
+<author href="http://www.ashesi.edu.gh" email="m.annor13@gmail.com">
+M Annor </author>
+
+<icon src="icon.png" />
+<gap:splash src="splash.png" />
+
+</widget>
