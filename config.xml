@@ -13,4 +13,11 @@ M Annor </author>
 <icon src="icon.png" />
 <gap:splash src="splash.png" />
 
+
+<gap:plugin name="cordova-plugin-whitelist" source="npm" />
+<allow-navigation href="*" />
+<allow-intent href="*" />
+<access origin="*" />
+
+
 </widget>
